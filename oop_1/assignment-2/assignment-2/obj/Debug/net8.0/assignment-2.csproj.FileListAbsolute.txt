@@ -1,0 +1,14 @@
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.exe
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.deps.json
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.runtimeconfig.json
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.dll
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.pdb
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.AssemblyInfoInputs.cache
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.AssemblyInfo.cs
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.dll
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\refint\assignment-2.dll
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.pdb
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.genruntimeconfig.cache
+C:\Users\School\OneDrive - Da Vinci College\Bovenbouw\oop_1\assignment-2\assignment-2\obj\Debug\net8.0\ref\assignment-2.dll

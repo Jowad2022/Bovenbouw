@@ -15,7 +15,14 @@ class Charmander // class met de naam charmander
 
     public void BattleCry()
     {
-        Console.WriteLine($" Charmander says: {Nickname}!");
+        Console.WriteLine($"Charmander says: {Nickname}!");
+    }
+}
+class Pokeball
+{
+    public Pokeball()
+    {
+      
     }
 }
 class Program
